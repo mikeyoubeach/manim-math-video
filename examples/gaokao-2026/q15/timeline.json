@@ -1,0 +1,198 @@
+{
+  "total_duration": 102.72,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十五题，直三棱柱。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.56,
+      "duration": 2.56
+    },
+    {
+      "index": 1,
+      "text": "直三棱柱ABC-A₁B₁C₁中，AB垂直于BC。",
+      "file": "seg_002.wav",
+      "start": 3.06,
+      "end": 8.34,
+      "duration": 5.28
+    },
+    {
+      "index": 2,
+      "text": "AB等于BC等于BB₁等于2。",
+      "file": "seg_003.wav",
+      "start": 8.84,
+      "end": 12.52,
+      "duration": 3.68
+    },
+    {
+      "index": 3,
+      "text": "求点B₁到平面AC₁的距离。",
+      "file": "seg_004.wav",
+      "start": 13.02,
+      "end": 15.26,
+      "duration": 2.24
+    },
+    {
+      "index": 4,
+      "text": "建立空间直角坐标系。",
+      "file": "seg_005.wav",
+      "start": 15.76,
+      "end": 17.84,
+      "duration": 2.08
+    },
+    {
+      "index": 5,
+      "text": "B为原点，BA为x轴，BC为y轴，BB₁为z轴。",
+      "file": "seg_006.wav",
+      "start": 18.34,
+      "end": 24.26,
+      "duration": 5.92
+    },
+    {
+      "index": 6,
+      "text": "B坐标0,0,0。A坐标2,0,0。C坐标0,2,0。B₁坐标0,0,2。",
+      "file": "seg_007.wav",
+      "start": 24.76,
+      "end": 35.48,
+      "duration": 10.72
+    },
+    {
+      "index": 7,
+      "text": "C₁坐标0,2,2。",
+      "file": "seg_008.wav",
+      "start": 35.98,
+      "end": 38.06,
+      "duration": 2.08
+    },
+    {
+      "index": 8,
+      "text": "平面AC₁需要三个点确定。",
+      "file": "seg_009.wav",
+      "start": 38.56,
+      "end": 40.96,
+      "duration": 2.4
+    },
+    {
+      "index": 9,
+      "text": "取A、C₁和AC₁的中点M，坐标1,1,1。",
+      "file": "seg_010.wav",
+      "start": 41.46,
+      "end": 46.42,
+      "duration": 4.96
+    },
+    {
+      "index": 10,
+      "text": "实际上用向量法。",
+      "file": "seg_011.wav",
+      "start": 46.92,
+      "end": 48.52,
+      "duration": 1.6
+    },
+    {
+      "index": 11,
+      "text": "向量AC₁等于负2,2,2。向量AB₁等于负2,0,2。",
+      "file": "seg_012.wav",
+      "start": 49.02,
+      "end": 55.26,
+      "duration": 6.24
+    },
+    {
+      "index": 12,
+      "text": "法向量等于AC₁叉乘AB₁。",
+      "file": "seg_013.wav",
+      "start": 55.76,
+      "end": 58.48,
+      "duration": 2.72
+    },
+    {
+      "index": 13,
+      "text": "等于4,0,4。简化为1,0,1。",
+      "file": "seg_014.wav",
+      "start": 58.98,
+      "end": 64.1,
+      "duration": 5.12
+    },
+    {
+      "index": 14,
+      "text": "平面方程：x加z等于d。",
+      "file": "seg_015.wav",
+      "start": 64.6,
+      "end": 67.32,
+      "duration": 2.72
+    },
+    {
+      "index": 15,
+      "text": "代入A点2,0,0：d等于2。",
+      "file": "seg_016.wav",
+      "start": 67.82,
+      "end": 71.18,
+      "duration": 3.36
+    },
+    {
+      "index": 16,
+      "text": "所以平面方程是x加z等于2。",
+      "file": "seg_017.wav",
+      "start": 71.68,
+      "end": 74.72,
+      "duration": 3.04
+    },
+    {
+      "index": 17,
+      "text": "B₁到平面的距离等于0加0加2减2的绝对值除以根号2。",
+      "file": "seg_018.wav",
+      "start": 75.22,
+      "end": 80.5,
+      "duration": 5.28
+    },
+    {
+      "index": 18,
+      "text": "等于0除以根号2等于0。",
+      "file": "seg_019.wav",
+      "start": 81.0,
+      "end": 83.56,
+      "duration": 2.56
+    },
+    {
+      "index": 19,
+      "text": "等等，B₁在平面上？",
+      "file": "seg_020.wav",
+      "start": 84.06,
+      "end": 86.3,
+      "duration": 2.24
+    },
+    {
+      "index": 20,
+      "text": "让我验证：B₁坐标0,0,2，代入x加z等于0加2等于2。确实在平面上。",
+      "file": "seg_021.wav",
+      "start": 86.8,
+      "end": 94.64,
+      "duration": 7.84
+    },
+    {
+      "index": 21,
+      "text": "所以距离等于0。",
+      "file": "seg_022.wav",
+      "start": 95.14,
+      "end": 96.9,
+      "duration": 1.76
+    },
+    {
+      "index": 22,
+      "text": "答案选A。",
+      "file": "seg_023.wav",
+      "start": 97.4,
+      "end": 98.84,
+      "duration": 1.44
+    },
+    {
+      "index": 23,
+      "text": "这道题的关键是发现B₁在平面AC₁上。",
+      "file": "seg_024.wav",
+      "start": 99.34,
+      "end": 102.22,
+      "duration": 2.88
+    }
+  ]
+}
