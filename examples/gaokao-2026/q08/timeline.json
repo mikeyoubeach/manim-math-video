@@ -1,0 +1,238 @@
+{
+  "total_duration": 107.62,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第八题，四面体体积。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.72,
+      "duration": 2.72
+    },
+    {
+      "index": 1,
+      "text": "正方体棱长为2。",
+      "file": "seg_002.wav",
+      "start": 3.22,
+      "end": 4.98,
+      "duration": 1.76
+    },
+    {
+      "index": 2,
+      "text": "E、F、G、H分别是四条棱的中点。",
+      "file": "seg_003.wav",
+      "start": 5.48,
+      "end": 9.32,
+      "duration": 3.84
+    },
+    {
+      "index": 3,
+      "text": "求四面体EFGH的体积。",
+      "file": "seg_004.wav",
+      "start": 9.82,
+      "end": 12.54,
+      "duration": 2.72
+    },
+    {
+      "index": 4,
+      "text": "这道题考的是空间几何和体积计算。",
+      "file": "seg_005.wav",
+      "start": 13.04,
+      "end": 15.92,
+      "duration": 2.88
+    },
+    {
+      "index": 5,
+      "text": "先标出这四个点的位置。",
+      "file": "seg_006.wav",
+      "start": 16.42,
+      "end": 18.34,
+      "duration": 1.92
+    },
+    {
+      "index": 6,
+      "text": "E是AB中点，坐标是2,1,0。",
+      "file": "seg_007.wav",
+      "start": 18.84,
+      "end": 22.36,
+      "duration": 3.52
+    },
+    {
+      "index": 7,
+      "text": "F是AD中点，坐标是1,2,0。",
+      "file": "seg_008.wav",
+      "start": 22.86,
+      "end": 26.86,
+      "duration": 4.0
+    },
+    {
+      "index": 8,
+      "text": "G是BB₁中点，坐标是2,0,1。",
+      "file": "seg_009.wav",
+      "start": 27.36,
+      "end": 30.88,
+      "duration": 3.52
+    },
+    {
+      "index": 9,
+      "text": "H是DD₁中点，坐标是0,2,1。",
+      "file": "seg_010.wav",
+      "start": 31.38,
+      "end": 34.9,
+      "duration": 3.52
+    },
+    {
+      "index": 10,
+      "text": "四面体体积公式，三分之一乘以底面积乘以高。",
+      "file": "seg_011.wav",
+      "start": 35.4,
+      "end": 39.56,
+      "duration": 4.16
+    },
+    {
+      "index": 11,
+      "text": "我们用向量的方法。",
+      "file": "seg_012.wav",
+      "start": 40.06,
+      "end": 41.5,
+      "duration": 1.44
+    },
+    {
+      "index": 12,
+      "text": "向量EF等于负1,1,0。",
+      "file": "seg_013.wav",
+      "start": 42.0,
+      "end": 45.36,
+      "duration": 3.36
+    },
+    {
+      "index": 13,
+      "text": "向量EG等于0,负1,1。",
+      "file": "seg_014.wav",
+      "start": 45.86,
+      "end": 48.58,
+      "duration": 2.72
+    },
+    {
+      "index": 14,
+      "text": "向量EH等于负1,1,1。",
+      "file": "seg_015.wav",
+      "start": 49.08,
+      "end": 52.6,
+      "duration": 3.52
+    },
+    {
+      "index": 15,
+      "text": "三个向量的混合积，等于行列式。",
+      "file": "seg_016.wav",
+      "start": 53.1,
+      "end": 56.14,
+      "duration": 3.04
+    },
+    {
+      "index": 16,
+      "text": "算一下这个三阶行列式。",
+      "file": "seg_017.wav",
+      "start": 56.64,
+      "end": 58.72,
+      "duration": 2.08
+    },
+    {
+      "index": 17,
+      "text": "负1乘以负1乘以1，减去1乘以1乘以1，加上0。",
+      "file": "seg_018.wav",
+      "start": 59.22,
+      "end": 64.34,
+      "duration": 5.12
+    },
+    {
+      "index": 18,
+      "text": "等于1减1加0，等于0。",
+      "file": "seg_019.wav",
+      "start": 64.84,
+      "end": 67.56,
+      "duration": 2.72
+    },
+    {
+      "index": 19,
+      "text": "等等，这不对。",
+      "file": "seg_020.wav",
+      "start": 68.06,
+      "end": 69.5,
+      "duration": 1.44
+    },
+    {
+      "index": 20,
+      "text": "让我重新算。",
+      "file": "seg_021.wav",
+      "start": 70.0,
+      "end": 71.12,
+      "duration": 1.12
+    },
+    {
+      "index": 21,
+      "text": "EF等于F减E，等于负1,1,0。",
+      "file": "seg_022.wav",
+      "start": 71.62,
+      "end": 76.74,
+      "duration": 5.12
+    },
+    {
+      "index": 22,
+      "text": "EG等于G减E，等于0,负1,1。",
+      "file": "seg_023.wav",
+      "start": 77.24,
+      "end": 80.92,
+      "duration": 3.68
+    },
+    {
+      "index": 23,
+      "text": "EH等于H减E，等于负1,1,1。",
+      "file": "seg_024.wav",
+      "start": 81.42,
+      "end": 85.58,
+      "duration": 4.16
+    },
+    {
+      "index": 24,
+      "text": "行列式展开：负1乘以负1减1，减去1乘以0减负1，加上0。",
+      "file": "seg_025.wav",
+      "start": 86.08,
+      "end": 92.48,
+      "duration": 6.4
+    },
+    {
+      "index": 25,
+      "text": "等于负1乘以负2，减去1乘以1，加0。",
+      "file": "seg_026.wav",
+      "start": 92.98,
+      "end": 97.14,
+      "duration": 4.16
+    },
+    {
+      "index": 26,
+      "text": "等于2减1，等于1。",
+      "file": "seg_027.wav",
+      "start": 97.64,
+      "end": 99.88,
+      "duration": 2.24
+    },
+    {
+      "index": 27,
+      "text": "四面体体积等于六分之一乘以绝对值1，等于六分之一。",
+      "file": "seg_028.wav",
+      "start": 100.38,
+      "end": 105.5,
+      "duration": 5.12
+    },
+    {
+      "index": 28,
+      "text": "答案选C。",
+      "file": "seg_029.wav",
+      "start": 106.0,
+      "end": 107.12,
+      "duration": 1.12
+    }
+  ]
+}
