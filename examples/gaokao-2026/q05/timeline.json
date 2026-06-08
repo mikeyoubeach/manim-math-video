@@ -1,0 +1,102 @@
+{
+  "total_duration": 63.28,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第五题，抛物线焦点距离。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.72,
+      "duration": 2.72
+    },
+    {
+      "index": 1,
+      "text": "两条抛物线，C1是y的平方等于2p1乘以x，C2是x的平方等于2p2乘以y。",
+      "file": "seg_002.wav",
+      "start": 3.22,
+      "end": 11.22,
+      "duration": 8.0
+    },
+    {
+      "index": 2,
+      "text": "它们都经过点4逗号8。",
+      "file": "seg_003.wav",
+      "start": 11.72,
+      "end": 14.44,
+      "duration": 2.72
+    },
+    {
+      "index": 3,
+      "text": "求两条抛物线焦点之间的距离。",
+      "file": "seg_004.wav",
+      "start": 14.94,
+      "end": 17.5,
+      "duration": 2.56
+    },
+    {
+      "index": 4,
+      "text": "先代入点4逗号8。",
+      "file": "seg_005.wav",
+      "start": 18.0,
+      "end": 19.92,
+      "duration": 1.92
+    },
+    {
+      "index": 5,
+      "text": "C1：8的平方等于2p1乘以4，64等于8p1，所以p1等于8。",
+      "file": "seg_006.wav",
+      "start": 20.42,
+      "end": 28.42,
+      "duration": 8.0
+    },
+    {
+      "index": 6,
+      "text": "C2：4的平方等于2p2乘以8，16等于16p2，所以p2等于1。",
+      "file": "seg_007.wav",
+      "start": 28.92,
+      "end": 35.8,
+      "duration": 6.88
+    },
+    {
+      "index": 7,
+      "text": "C1的焦点在x轴上，坐标是p1除以2逗号0，也就是4逗号0。",
+      "file": "seg_008.wav",
+      "start": 36.3,
+      "end": 42.54,
+      "duration": 6.24
+    },
+    {
+      "index": 8,
+      "text": "C2的焦点在y轴上，坐标是0逗号p2除以2，也就是0逗号0.5。",
+      "file": "seg_009.wav",
+      "start": 43.04,
+      "end": 50.08,
+      "duration": 7.04
+    },
+    {
+      "index": 9,
+      "text": "两点之间的距离，用距离公式。",
+      "file": "seg_010.wav",
+      "start": 50.58,
+      "end": 53.14,
+      "duration": 2.56
+    },
+    {
+      "index": 10,
+      "text": "根号下4的平方加0.5的平方，等于根号下16.25，等于2分之根号65。",
+      "file": "seg_011.wav",
+      "start": 53.64,
+      "end": 61.32,
+      "duration": 7.68
+    },
+    {
+      "index": 11,
+      "text": "答案选D。",
+      "file": "seg_012.wav",
+      "start": 61.82,
+      "end": 62.78,
+      "duration": 0.96
+    }
+  ]
+}
