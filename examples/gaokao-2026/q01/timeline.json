@@ -1,0 +1,102 @@
+{
+  "total_duration": 41.68,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第一题，中位数。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.24,
+      "duration": 2.24
+    },
+    {
+      "index": 1,
+      "text": "这道题简单，但咱们把它讲清楚。",
+      "file": "seg_002.wav",
+      "start": 2.74,
+      "end": 5.3,
+      "duration": 2.56
+    },
+    {
+      "index": 2,
+      "text": "样本数据是6、8、4、5、12，一共五个数。",
+      "file": "seg_003.wav",
+      "start": 5.8,
+      "end": 10.76,
+      "duration": 4.96
+    },
+    {
+      "index": 3,
+      "text": "中位数是啥？就是把这组数据从小到大排一排，最中间那个。",
+      "file": "seg_004.wav",
+      "start": 11.26,
+      "end": 16.38,
+      "duration": 5.12
+    },
+    {
+      "index": 4,
+      "text": "来，排一下。",
+      "file": "seg_005.wav",
+      "start": 16.88,
+      "end": 18.0,
+      "duration": 1.12
+    },
+    {
+      "index": 5,
+      "text": "4、5、6、8、12。",
+      "file": "seg_006.wav",
+      "start": 18.5,
+      "end": 22.66,
+      "duration": 4.16
+    },
+    {
+      "index": 6,
+      "text": "五个数，中间那个是第三个。",
+      "file": "seg_007.wav",
+      "start": 23.16,
+      "end": 26.04,
+      "duration": 2.88
+    },
+    {
+      "index": 7,
+      "text": "所以中位数是6。",
+      "file": "seg_008.wav",
+      "start": 26.54,
+      "end": 28.46,
+      "duration": 1.92
+    },
+    {
+      "index": 8,
+      "text": "答案选B。",
+      "file": "seg_009.wav",
+      "start": 28.96,
+      "end": 29.92,
+      "duration": 0.96
+    },
+    {
+      "index": 9,
+      "text": "记住啊，中位数不是平均数，是排序后正中间那个。",
+      "file": "seg_010.wav",
+      "start": 30.42,
+      "end": 35.06,
+      "duration": 4.64
+    },
+    {
+      "index": 10,
+      "text": "偶数个数的话，取中间两个的平均值。",
+      "file": "seg_011.wav",
+      "start": 35.56,
+      "end": 38.76,
+      "duration": 3.2
+    },
+    {
+      "index": 11,
+      "text": "这道题白送分，别丢。",
+      "file": "seg_012.wav",
+      "start": 39.26,
+      "end": 41.18,
+      "duration": 1.92
+    }
+  ]
+}
