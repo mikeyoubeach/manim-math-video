@@ -1,0 +1,150 @@
+{
+  "total_duration": 85.16,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十七题，概率分布。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.24,
+      "duration": 2.24
+    },
+    {
+      "index": 1,
+      "text": "用一个球投篮练习，至多投篮N次。",
+      "file": "seg_002.wav",
+      "start": 2.74,
+      "end": 5.62,
+      "duration": 2.88
+    },
+    {
+      "index": 2,
+      "text": "当且仅当投中1次或N次都没中时停止。",
+      "file": "seg_003.wav",
+      "start": 6.12,
+      "end": 9.8,
+      "duration": 3.68
+    },
+    {
+      "index": 3,
+      "text": "每次投中概率为p，各次独立。",
+      "file": "seg_004.wav",
+      "start": 10.3,
+      "end": 12.86,
+      "duration": 2.56
+    },
+    {
+      "index": 4,
+      "text": "X为停止时的投篮次数。",
+      "file": "seg_005.wav",
+      "start": 13.36,
+      "end": 15.44,
+      "duration": 2.08
+    },
+    {
+      "index": 5,
+      "text": "第一问，N等于4，p等于3分之1，求X的分布列。",
+      "file": "seg_006.wav",
+      "start": 15.94,
+      "end": 20.42,
+      "duration": 4.48
+    },
+    {
+      "index": 6,
+      "text": "X的可能取值是1、2、3、4。",
+      "file": "seg_007.wav",
+      "start": 20.92,
+      "end": 25.08,
+      "duration": 4.16
+    },
+    {
+      "index": 7,
+      "text": "X等于1：第一次就投中。概率等于3分之1。",
+      "file": "seg_008.wav",
+      "start": 25.58,
+      "end": 29.74,
+      "duration": 4.16
+    },
+    {
+      "index": 8,
+      "text": "X等于2：第一次没中，第二次投中。概率等于3分之2乘以3分之1，等于9分之2。",
+      "file": "seg_009.wav",
+      "start": 30.24,
+      "end": 37.6,
+      "duration": 7.36
+    },
+    {
+      "index": 9,
+      "text": "X等于3：前两次没中，第三次投中。概率等于27分之4。",
+      "file": "seg_010.wav",
+      "start": 38.1,
+      "end": 44.5,
+      "duration": 6.4
+    },
+    {
+      "index": 10,
+      "text": "X等于4：要么第三次没中第四次投中，要么四次都没中。",
+      "file": "seg_011.wav",
+      "start": 45.0,
+      "end": 50.6,
+      "duration": 5.6
+    },
+    {
+      "index": 11,
+      "text": "概率等于81分之8加81分之16，等于81分之24，等于27分之8。",
+      "file": "seg_012.wav",
+      "start": 51.1,
+      "end": 59.1,
+      "duration": 8.0
+    },
+    {
+      "index": 12,
+      "text": "验证：所有概率加起来等于1。",
+      "file": "seg_013.wav",
+      "start": 59.6,
+      "end": 62.16,
+      "duration": 2.56
+    },
+    {
+      "index": 13,
+      "text": "第二问，证明条件概率的性质。",
+      "file": "seg_014.wav",
+      "start": 62.66,
+      "end": 65.38,
+      "duration": 2.72
+    },
+    {
+      "index": 14,
+      "text": "当k加m小于等于N减1时，P(X大于k加m除以X大于k)等于P(X大于m)。",
+      "file": "seg_015.wav",
+      "start": 65.88,
+      "end": 73.88,
+      "duration": 8.0
+    },
+    {
+      "index": 15,
+      "text": "这本质上是无记忆性的证明。",
+      "file": "seg_016.wav",
+      "start": 74.38,
+      "end": 76.78,
+      "duration": 2.4
+    },
+    {
+      "index": 16,
+      "text": "因为每次投篮独立，前k次的结果不影响后面的概率。",
+      "file": "seg_017.wav",
+      "start": 77.28,
+      "end": 81.44,
+      "duration": 4.16
+    },
+    {
+      "index": 17,
+      "text": "所以条件概率等于无条件概率。",
+      "file": "seg_018.wav",
+      "start": 81.94,
+      "end": 84.66,
+      "duration": 2.72
+    }
+  ]
+}
