@@ -1,0 +1,174 @@
+{
+  "total_duration": 88.58,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十六题，三角形问题。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.56,
+      "duration": 2.56
+    },
+    {
+      "index": 1,
+      "text": "三角形ABC中，AB等于3，BC等于2倍根号3，cosB等于3分之根号3。",
+      "file": "seg_002.wav",
+      "start": 3.06,
+      "end": 10.1,
+      "duration": 7.04
+    },
+    {
+      "index": 2,
+      "text": "第一问，求cosA。",
+      "file": "seg_003.wav",
+      "start": 10.6,
+      "end": 13.0,
+      "duration": 2.4
+    },
+    {
+      "index": 3,
+      "text": "用余弦定理。",
+      "file": "seg_004.wav",
+      "start": 13.5,
+      "end": 14.78,
+      "duration": 1.28
+    },
+    {
+      "index": 4,
+      "text": "先求AC的平方。",
+      "file": "seg_005.wav",
+      "start": 15.28,
+      "end": 16.72,
+      "duration": 1.44
+    },
+    {
+      "index": 5,
+      "text": "AC的平方等于AB的平方加BC的平方减2倍AB乘BC乘cosB。",
+      "file": "seg_006.wav",
+      "start": 17.22,
+      "end": 24.26,
+      "duration": 7.04
+    },
+    {
+      "index": 6,
+      "text": "代入：9加12减2乘3乘2倍根号3乘3分之根号3。",
+      "file": "seg_007.wav",
+      "start": 24.76,
+      "end": 30.52,
+      "duration": 5.76
+    },
+    {
+      "index": 7,
+      "text": "等于21减12，等于9。",
+      "file": "seg_008.wav",
+      "start": 31.02,
+      "end": 33.58,
+      "duration": 2.56
+    },
+    {
+      "index": 8,
+      "text": "所以AC等于3。",
+      "file": "seg_009.wav",
+      "start": 34.08,
+      "end": 35.68,
+      "duration": 1.6
+    },
+    {
+      "index": 9,
+      "text": "再用余弦定理求cosA。",
+      "file": "seg_010.wav",
+      "start": 36.18,
+      "end": 38.26,
+      "duration": 2.08
+    },
+    {
+      "index": 10,
+      "text": "cosA等于AB的平方加AC的平方减BC的平方，除以2倍AB乘AC。",
+      "file": "seg_011.wav",
+      "start": 38.76,
+      "end": 46.44,
+      "duration": 7.68
+    },
+    {
+      "index": 11,
+      "text": "等于9加9减12，除以18。",
+      "file": "seg_012.wav",
+      "start": 46.94,
+      "end": 49.66,
+      "duration": 2.72
+    },
+    {
+      "index": 12,
+      "text": "等于6除以18，等于3分之1。",
+      "file": "seg_013.wav",
+      "start": 50.16,
+      "end": 52.72,
+      "duration": 2.56
+    },
+    {
+      "index": 13,
+      "text": "第二问，求CE。",
+      "file": "seg_014.wav",
+      "start": 53.22,
+      "end": 54.98,
+      "duration": 1.76
+    },
+    {
+      "index": 14,
+      "text": "D在BA的延长线上，DE平行于BC，AE垂直于AC，DE等于根号6。",
+      "file": "seg_015.wav",
+      "start": 55.48,
+      "end": 62.52,
+      "duration": 7.04
+    },
+    {
+      "index": 15,
+      "text": "先求角C。",
+      "file": "seg_016.wav",
+      "start": 63.02,
+      "end": 64.3,
+      "duration": 1.28
+    },
+    {
+      "index": 16,
+      "text": "角A的余弦等于3分之1，角B的余弦等于3分之根号3。",
+      "file": "seg_017.wav",
+      "start": 64.8,
+      "end": 70.88,
+      "duration": 6.08
+    },
+    {
+      "index": 17,
+      "text": "用余弦定理可以求出角C的余弦。",
+      "file": "seg_018.wav",
+      "start": 71.38,
+      "end": 74.42,
+      "duration": 3.04
+    },
+    {
+      "index": 18,
+      "text": "然后用DE平行BC，得到三角形ADE相似于三角形ABC。",
+      "file": "seg_019.wav",
+      "start": 74.92,
+      "end": 81.0,
+      "duration": 6.08
+    },
+    {
+      "index": 19,
+      "text": "再用AE垂直AC，列方程求CE。",
+      "file": "seg_020.wav",
+      "start": 81.5,
+      "end": 85.02,
+      "duration": 3.52
+    },
+    {
+      "index": 20,
+      "text": "最终CE等于根号3。",
+      "file": "seg_021.wav",
+      "start": 85.52,
+      "end": 88.08,
+      "duration": 2.56
+    }
+  ]
+}
