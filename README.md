@@ -136,9 +136,39 @@ manim-math-video/
 │   └── timeline_to_manim.py  # 时间轴转Manim注释
 ├── examples/
 │   ├── integral_demo.py  # 积分演示
-│   └── showcase.py       # 效果展示混剪
+│   ├── showcase.py       # 效果展示混剪
+│   └── gaokao-2026/      # 高考数学19题完整示例
+│       ├── q01/ ~ q19/   # 每题：脚本+文案+时间轴
+│       └── AGENT_CONTEXT.md  # 子Agent并行模板
 └── README.md
 ```
+
+## 示例
+
+### 基础示例
+- `examples/integral_demo.py` — 积分演示（曲线生长+黎曼矩形+面积填充）
+- `examples/showcase.py` — 效果展示混剪（形状变形+导数切线+傅里叶叠加）
+
+### 高考数学完整示例（19题）
+
+`examples/gaokao-2026/` 包含2026年新高考一卷数学全部19道题的：
+- Manim动画脚本（`q01/q01.py` ~ `q19/q19.py`）
+- TTS文案（`q01/script.txt` ~ `q19/script.txt`）
+- 时间轴数据（`q01/timeline.json` ~ `q19/timeline.json`）
+- 子Agent并行模板（`AGENT_CONTEXT.md`）
+
+视频效果：[B站](https://bilibili.com) 搜索“2026高考数学”
+
+| 题号 | 内容 | 特效 |
+|------|------|------|
+| Q1 | 中位数 | Transform排序 |
+| Q3 | 三角函数集合 | **单位圆可视化** |
+| Q4 | 切线方程 | 曲线生长+切线画出 |
+| Q6 | 函数最大值 | **视觉因果箭头** |
+| Q8 | 四面体体积 | 3D + **红✗→绿✓纠错** |
+| Q11 | 直线与圆 | **动态k参数旋转** |
+| Q18 | 椭圆 | **ValueTracker动态直线** |
+| Q19 | 函数性质证明 | 分段函数+反证法红✗→绿✓ |
 
 ## 依赖
 
