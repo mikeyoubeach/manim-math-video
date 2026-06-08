@@ -1,0 +1,166 @@
+{
+  "total_duration": 77.52,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十一题，直线与圆相交。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 3.04,
+      "duration": 3.04
+    },
+    {
+      "index": 1,
+      "text": "直线y等于kx加2。",
+      "file": "seg_002.wav",
+      "start": 3.54,
+      "end": 5.78,
+      "duration": 2.24
+    },
+    {
+      "index": 2,
+      "text": "圆C₁是x²加y²等于4，圆心原点半径2。",
+      "file": "seg_003.wav",
+      "start": 6.28,
+      "end": 10.28,
+      "duration": 4.0
+    },
+    {
+      "index": 3,
+      "text": "圆C₂是x减3的平方加y²等于4，圆心3,0半径2。",
+      "file": "seg_004.wav",
+      "start": 10.78,
+      "end": 16.86,
+      "duration": 6.08
+    },
+    {
+      "index": 4,
+      "text": "直线和两个圆都相交，求k的取值范围。",
+      "file": "seg_005.wav",
+      "start": 17.36,
+      "end": 20.72,
+      "duration": 3.36
+    },
+    {
+      "index": 5,
+      "text": "先看直线过哪个特殊点。",
+      "file": "seg_006.wav",
+      "start": 21.22,
+      "end": 23.14,
+      "duration": 1.92
+    },
+    {
+      "index": 6,
+      "text": "当x等于0时，y等于2。",
+      "file": "seg_007.wav",
+      "start": 23.64,
+      "end": 26.2,
+      "duration": 2.56
+    },
+    {
+      "index": 7,
+      "text": "点0,2恰好在圆C₁上，因为0²加2²等于4。",
+      "file": "seg_008.wav",
+      "start": 26.7,
+      "end": 30.86,
+      "duration": 4.16
+    },
+    {
+      "index": 8,
+      "text": "所以直线恒过圆C₁上的一点。",
+      "file": "seg_009.wav",
+      "start": 31.36,
+      "end": 34.08,
+      "duration": 2.72
+    },
+    {
+      "index": 9,
+      "text": "直线和C₁一定相交，不管k取什么值。",
+      "file": "seg_010.wav",
+      "start": 34.58,
+      "end": 37.78,
+      "duration": 3.2
+    },
+    {
+      "index": 10,
+      "text": "再看直线和C₂相交的条件。",
+      "file": "seg_011.wav",
+      "start": 38.28,
+      "end": 40.84,
+      "duration": 2.56
+    },
+    {
+      "index": 11,
+      "text": "把y等于kx加2代入C₂的方程。",
+      "file": "seg_012.wav",
+      "start": 41.34,
+      "end": 44.22,
+      "duration": 2.88
+    },
+    {
+      "index": 12,
+      "text": "x减3的平方加kx加2的平方等于4。",
+      "file": "seg_013.wav",
+      "start": 44.72,
+      "end": 48.72,
+      "duration": 4.0
+    },
+    {
+      "index": 13,
+      "text": "展开：x²减6x加9加k²x²加4kx加4等于4。",
+      "file": "seg_014.wav",
+      "start": 49.22,
+      "end": 55.46,
+      "duration": 6.24
+    },
+    {
+      "index": 14,
+      "text": "整理：1加k²乘以x²加4k减6乘以x加9等于0。",
+      "file": "seg_015.wav",
+      "start": 55.96,
+      "end": 61.08,
+      "duration": 5.12
+    },
+    {
+      "index": 15,
+      "text": "判别式大于等于0。",
+      "file": "seg_016.wav",
+      "start": 61.58,
+      "end": 63.66,
+      "duration": 2.08
+    },
+    {
+      "index": 16,
+      "text": "4k减6的平方减4乘以1加k²乘以9大于等于0。",
+      "file": "seg_017.wav",
+      "start": 64.16,
+      "end": 69.12,
+      "duration": 4.96
+    },
+    {
+      "index": 17,
+      "text": "化简：k小于等于0。",
+      "file": "seg_018.wav",
+      "start": 69.62,
+      "end": 71.7,
+      "duration": 2.08
+    },
+    {
+      "index": 18,
+      "text": "答案选D。",
+      "file": "seg_019.wav",
+      "start": 72.2,
+      "end": 73.16,
+      "duration": 0.96
+    },
+    {
+      "index": 19,
+      "text": "这道题的关键是发现直线恒过C₁上的点。",
+      "file": "seg_020.wav",
+      "start": 73.66,
+      "end": 77.02,
+      "duration": 3.36
+    }
+  ]
+}
