@@ -1,0 +1,182 @@
+{
+  "total_duration": 93.88,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第六题，函数最大值。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.72,
+      "duration": 2.72
+    },
+    {
+      "index": 1,
+      "text": "函数f(x)等于x加2除以e的x次方加a。",
+      "file": "seg_002.wav",
+      "start": 3.22,
+      "end": 8.18,
+      "duration": 4.96
+    },
+    {
+      "index": 2,
+      "text": "已知最大值为1，求a。",
+      "file": "seg_003.wav",
+      "start": 8.68,
+      "end": 10.76,
+      "duration": 2.08
+    },
+    {
+      "index": 3,
+      "text": "这道题考的是导数求极值。",
+      "file": "seg_004.wav",
+      "start": 11.26,
+      "end": 13.82,
+      "duration": 2.56
+    },
+    {
+      "index": 4,
+      "text": "最大值为1，说明存在某个x，使得f(x)等于1。",
+      "file": "seg_005.wav",
+      "start": 14.32,
+      "end": 19.12,
+      "duration": 4.8
+    },
+    {
+      "index": 5,
+      "text": "同时在这个点，f'(x)等于0。",
+      "file": "seg_006.wav",
+      "start": 19.62,
+      "end": 22.34,
+      "duration": 2.72
+    },
+    {
+      "index": 6,
+      "text": "先看f(x)等于1这个条件。",
+      "file": "seg_007.wav",
+      "start": 22.84,
+      "end": 25.24,
+      "duration": 2.4
+    },
+    {
+      "index": 7,
+      "text": "x加2等于e的x次方加a。",
+      "file": "seg_008.wav",
+      "start": 25.74,
+      "end": 28.78,
+      "duration": 3.04
+    },
+    {
+      "index": 8,
+      "text": "移项，a等于x加2减e的x次方。",
+      "file": "seg_009.wav",
+      "start": 29.28,
+      "end": 32.8,
+      "duration": 3.52
+    },
+    {
+      "index": 9,
+      "text": "再看f'(x)等于0这个条件。",
+      "file": "seg_010.wav",
+      "start": 33.3,
+      "end": 35.86,
+      "duration": 2.56
+    },
+    {
+      "index": 10,
+      "text": "用商的求导法则。",
+      "file": "seg_011.wav",
+      "start": 36.36,
+      "end": 38.28,
+      "duration": 1.92
+    },
+    {
+      "index": 11,
+      "text": "分子的导数是1，分母的导数是e的x次方。",
+      "file": "seg_012.wav",
+      "start": 38.78,
+      "end": 43.1,
+      "duration": 4.32
+    },
+    {
+      "index": 12,
+      "text": "f'(x)等于e的x次方加a减去x加2乘以e的x次方，整体除以分母的平方。",
+      "file": "seg_013.wav",
+      "start": 43.6,
+      "end": 51.12,
+      "duration": 7.52
+    },
+    {
+      "index": 13,
+      "text": "分子为零：e的x次方加a减x加2乘以e的x次方等于0。",
+      "file": "seg_014.wav",
+      "start": 51.62,
+      "end": 57.7,
+      "duration": 6.08
+    },
+    {
+      "index": 14,
+      "text": "化简：a等于x加1乘以e的x次方。",
+      "file": "seg_015.wav",
+      "start": 58.2,
+      "end": 62.2,
+      "duration": 4.0
+    },
+    {
+      "index": 15,
+      "text": "现在我们有两个关于a的等式。",
+      "file": "seg_016.wav",
+      "start": 62.7,
+      "end": 65.26,
+      "duration": 2.56
+    },
+    {
+      "index": 16,
+      "text": "x加2减e的x次方，等于x加1乘以e的x次方。",
+      "file": "seg_017.wav",
+      "start": 65.76,
+      "end": 70.88,
+      "duration": 5.12
+    },
+    {
+      "index": 17,
+      "text": "化简：e的x次方乘以x加2，等于x加2。",
+      "file": "seg_018.wav",
+      "start": 71.38,
+      "end": 75.86,
+      "duration": 4.48
+    },
+    {
+      "index": 18,
+      "text": "所以e的x次方等于1，x等于0。",
+      "file": "seg_019.wav",
+      "start": 76.36,
+      "end": 79.72,
+      "duration": 3.36
+    },
+    {
+      "index": 19,
+      "text": "代回去，a等于0加1乘以e的零次方，等于1。",
+      "file": "seg_020.wav",
+      "start": 80.22,
+      "end": 84.38,
+      "duration": 4.16
+    },
+    {
+      "index": 20,
+      "text": "答案选B。",
+      "file": "seg_021.wav",
+      "start": 84.88,
+      "end": 86.32,
+      "duration": 1.44
+    },
+    {
+      "index": 21,
+      "text": "这道题的关键是列两个方程，一个来自f(x)等于1，一个来自f'(x)等于0。",
+      "file": "seg_022.wav",
+      "start": 86.82,
+      "end": 93.38,
+      "duration": 6.56
+    }
+  ]
+}
