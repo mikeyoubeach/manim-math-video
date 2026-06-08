@@ -1,0 +1,158 @@
+{
+  "total_duration": 77.98,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十题，二面角。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.08,
+      "duration": 2.08
+    },
+    {
+      "index": 1,
+      "text": "正方体棱长为1，E是AA₁的中点。",
+      "file": "seg_002.wav",
+      "start": 2.58,
+      "end": 6.26,
+      "duration": 3.68
+    },
+    {
+      "index": 2,
+      "text": "求平面BDE与底面ABCD所成二面角的正切值。",
+      "file": "seg_003.wav",
+      "start": 6.76,
+      "end": 11.4,
+      "duration": 4.64
+    },
+    {
+      "index": 3,
+      "text": "这道题用向量法最方便。",
+      "file": "seg_004.wav",
+      "start": 11.9,
+      "end": 14.3,
+      "duration": 2.4
+    },
+    {
+      "index": 4,
+      "text": "建立空间直角坐标系。",
+      "file": "seg_005.wav",
+      "start": 14.8,
+      "end": 16.88,
+      "duration": 2.08
+    },
+    {
+      "index": 5,
+      "text": "B是原点，BA是x轴，BC是y轴，BB₁是z轴。",
+      "file": "seg_006.wav",
+      "start": 17.38,
+      "end": 22.98,
+      "duration": 5.6
+    },
+    {
+      "index": 6,
+      "text": "B坐标0,0,0。D坐标1,1,0。E坐标1,0,二分之一。",
+      "file": "seg_007.wav",
+      "start": 23.48,
+      "end": 31.96,
+      "duration": 8.48
+    },
+    {
+      "index": 7,
+      "text": "求平面BDE的法向量。",
+      "file": "seg_008.wav",
+      "start": 32.46,
+      "end": 34.54,
+      "duration": 2.08
+    },
+    {
+      "index": 8,
+      "text": "向量BD等于1,1,0。向量BE等于1,0,二分之一。",
+      "file": "seg_009.wav",
+      "start": 35.04,
+      "end": 41.28,
+      "duration": 6.24
+    },
+    {
+      "index": 9,
+      "text": "法向量n等于BD叉乘BE。",
+      "file": "seg_010.wav",
+      "start": 41.78,
+      "end": 44.82,
+      "duration": 3.04
+    },
+    {
+      "index": 10,
+      "text": "n等于二分之一,负二分之一,负1。",
+      "file": "seg_011.wav",
+      "start": 45.32,
+      "end": 48.36,
+      "duration": 3.04
+    },
+    {
+      "index": 11,
+      "text": "简化为1,负1,负2。",
+      "file": "seg_012.wav",
+      "start": 48.86,
+      "end": 51.42,
+      "duration": 2.56
+    },
+    {
+      "index": 12,
+      "text": "底面法向量是0,0,1。",
+      "file": "seg_013.wav",
+      "start": 51.92,
+      "end": 54.8,
+      "duration": 2.88
+    },
+    {
+      "index": 13,
+      "text": "两个法向量夹角的余弦，等于点积除以模的乘积。",
+      "file": "seg_014.wav",
+      "start": 55.3,
+      "end": 59.46,
+      "duration": 4.16
+    },
+    {
+      "index": 14,
+      "text": "点积等于负2。模分别是根号6和1。",
+      "file": "seg_015.wav",
+      "start": 59.96,
+      "end": 64.12,
+      "duration": 4.16
+    },
+    {
+      "index": 15,
+      "text": "cos θ等于负6分之根号6的绝对值。",
+      "file": "seg_016.wav",
+      "start": 64.62,
+      "end": 68.14,
+      "duration": 3.52
+    },
+    {
+      "index": 16,
+      "text": "二面角的正切值等于1。",
+      "file": "seg_017.wav",
+      "start": 68.64,
+      "end": 70.72,
+      "duration": 2.08
+    },
+    {
+      "index": 17,
+      "text": "答案选D。",
+      "file": "seg_018.wav",
+      "start": 71.22,
+      "end": 72.34,
+      "duration": 1.12
+    },
+    {
+      "index": 18,
+      "text": "记住，二面角用向量法，找法向量再算夹角。",
+      "file": "seg_019.wav",
+      "start": 72.84,
+      "end": 77.48,
+      "duration": 4.64
+    }
+  ]
+}
