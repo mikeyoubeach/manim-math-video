@@ -1,0 +1,126 @@
+{
+  "total_duration": 51.34,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十二题，双曲线离心率。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.72,
+      "duration": 2.72
+    },
+    {
+      "index": 1,
+      "text": "双曲线C的方程是x²除以a²减y²除以b²等于1。",
+      "file": "seg_002.wav",
+      "start": 3.22,
+      "end": 7.22,
+      "duration": 4.0
+    },
+    {
+      "index": 2,
+      "text": "一条渐近线是y等于根号3倍的x。",
+      "file": "seg_003.wav",
+      "start": 7.72,
+      "end": 11.08,
+      "duration": 3.36
+    },
+    {
+      "index": 3,
+      "text": "求离心率。",
+      "file": "seg_004.wav",
+      "start": 11.58,
+      "end": 12.86,
+      "duration": 1.28
+    },
+    {
+      "index": 4,
+      "text": "双曲线的渐近线方程是y等于正负b除以a乘以x。",
+      "file": "seg_005.wav",
+      "start": 13.36,
+      "end": 18.96,
+      "duration": 5.6
+    },
+    {
+      "index": 5,
+      "text": "已知渐近线是y等于根号3乘以x。",
+      "file": "seg_006.wav",
+      "start": 19.46,
+      "end": 23.3,
+      "duration": 3.84
+    },
+    {
+      "index": 6,
+      "text": "所以b除以a等于根号3。",
+      "file": "seg_007.wav",
+      "start": 23.8,
+      "end": 26.36,
+      "duration": 2.56
+    },
+    {
+      "index": 7,
+      "text": "b等于根号3倍的a。",
+      "file": "seg_008.wav",
+      "start": 26.86,
+      "end": 29.26,
+      "duration": 2.4
+    },
+    {
+      "index": 8,
+      "text": "离心率e等于c除以a。",
+      "file": "seg_009.wav",
+      "start": 29.76,
+      "end": 32.8,
+      "duration": 3.04
+    },
+    {
+      "index": 9,
+      "text": "c²等于a²加b²。",
+      "file": "seg_010.wav",
+      "start": 33.3,
+      "end": 35.06,
+      "duration": 1.76
+    },
+    {
+      "index": 10,
+      "text": "代入b等于根号3倍的a：c²等于a²加3a²等于4a²。",
+      "file": "seg_011.wav",
+      "start": 35.56,
+      "end": 40.52,
+      "duration": 4.96
+    },
+    {
+      "index": 11,
+      "text": "c等于2a。",
+      "file": "seg_012.wav",
+      "start": 41.02,
+      "end": 42.62,
+      "duration": 1.6
+    },
+    {
+      "index": 12,
+      "text": "所以e等于2a除以a等于2。",
+      "file": "seg_013.wav",
+      "start": 43.12,
+      "end": 45.68,
+      "duration": 2.56
+    },
+    {
+      "index": 13,
+      "text": "答案选A。",
+      "file": "seg_014.wav",
+      "start": 46.18,
+      "end": 47.3,
+      "duration": 1.12
+    },
+    {
+      "index": 14,
+      "text": "记住，渐近线斜率等于b除以a。",
+      "file": "seg_015.wav",
+      "start": 47.8,
+      "end": 50.84,
+      "duration": 3.04
+    }
+  ]
+}
