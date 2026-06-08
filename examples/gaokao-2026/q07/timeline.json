@@ -1,0 +1,126 @@
+{
+  "total_duration": 58.06,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第七题，积木塔。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.08,
+      "duration": 2.08
+    },
+    {
+      "index": 1,
+      "text": "这道题很有意思，用积木搭塔。",
+      "file": "seg_002.wav",
+      "start": 2.58,
+      "end": 5.46,
+      "duration": 2.88
+    },
+    {
+      "index": 2,
+      "text": "从第二层起，每一层比下一层少一块积木。",
+      "file": "seg_003.wav",
+      "start": 5.96,
+      "end": 10.12,
+      "duration": 4.16
+    },
+    {
+      "index": 3,
+      "text": "底层有15块，顶层有7块。",
+      "file": "seg_004.wav",
+      "start": 10.62,
+      "end": 13.02,
+      "duration": 2.4
+    },
+    {
+      "index": 4,
+      "text": "问一共有多少块积木。",
+      "file": "seg_005.wav",
+      "start": 13.52,
+      "end": 15.28,
+      "duration": 1.76
+    },
+    {
+      "index": 5,
+      "text": "这其实就是一个等差数列求和。",
+      "file": "seg_006.wav",
+      "start": 15.78,
+      "end": 18.34,
+      "duration": 2.56
+    },
+    {
+      "index": 6,
+      "text": "底层15，往上依次是14、13、12，一直到顶层7。",
+      "file": "seg_007.wav",
+      "start": 18.84,
+      "end": 23.8,
+      "duration": 4.96
+    },
+    {
+      "index": 7,
+      "text": "公差是负1。",
+      "file": "seg_008.wav",
+      "start": 24.3,
+      "end": 25.74,
+      "duration": 1.44
+    },
+    {
+      "index": 8,
+      "text": "先算有几层。",
+      "file": "seg_009.wav",
+      "start": 26.24,
+      "end": 27.68,
+      "duration": 1.44
+    },
+    {
+      "index": 9,
+      "text": "从15到7，每层少1，所以层数等于15减7加1，等于9层。",
+      "file": "seg_010.wav",
+      "start": 28.18,
+      "end": 34.1,
+      "duration": 5.92
+    },
+    {
+      "index": 10,
+      "text": "等差数列求和公式：首项加末项，乘以项数，除以2。",
+      "file": "seg_011.wav",
+      "start": 34.6,
+      "end": 39.4,
+      "duration": 4.8
+    },
+    {
+      "index": 11,
+      "text": "也就是15加7，等于22，乘以9，等于198，除以2，等于99。",
+      "file": "seg_012.wav",
+      "start": 39.9,
+      "end": 46.46,
+      "duration": 6.56
+    },
+    {
+      "index": 12,
+      "text": "答案选C。",
+      "file": "seg_013.wav",
+      "start": 46.96,
+      "end": 48.56,
+      "duration": 1.6
+    },
+    {
+      "index": 13,
+      "text": "这种题关键是搞清楚首项、末项和项数。",
+      "file": "seg_014.wav",
+      "start": 49.06,
+      "end": 52.9,
+      "duration": 3.84
+    },
+    {
+      "index": 14,
+      "text": "别忘了层数要加1，15到7不是8层，是9层。",
+      "file": "seg_015.wav",
+      "start": 53.4,
+      "end": 57.56,
+      "duration": 4.16
+    }
+  ]
+}
