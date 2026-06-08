@@ -1,0 +1,206 @@
+{
+  "total_duration": 115.38,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十三题，偶函数。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.4,
+      "duration": 2.4
+    },
+    {
+      "index": 1,
+      "text": "f(x)等于ln绝对值a加1除以1减x。",
+      "file": "seg_002.wav",
+      "start": 2.9,
+      "end": 8.66,
+      "duration": 5.76
+    },
+    {
+      "index": 2,
+      "text": "已知f(x)是偶函数，求a。",
+      "file": "seg_003.wav",
+      "start": 9.16,
+      "end": 12.04,
+      "duration": 2.88
+    },
+    {
+      "index": 3,
+      "text": "偶函数的定义是f负x等于f(x)。",
+      "file": "seg_004.wav",
+      "start": 12.54,
+      "end": 16.54,
+      "duration": 4.0
+    },
+    {
+      "index": 4,
+      "text": "所以ln绝对值a加1除以1加x，等于ln绝对值a加1除以1减x。",
+      "file": "seg_005.wav",
+      "start": 17.04,
+      "end": 23.76,
+      "duration": 6.72
+    },
+    {
+      "index": 5,
+      "text": "去掉ln，绝对值相等。",
+      "file": "seg_006.wav",
+      "start": 24.26,
+      "end": 26.34,
+      "duration": 2.08
+    },
+    {
+      "index": 6,
+      "text": "a加1除以1加x，等于正负a加1除以1减x。",
+      "file": "seg_007.wav",
+      "start": 26.84,
+      "end": 31.32,
+      "duration": 4.48
+    },
+    {
+      "index": 7,
+      "text": "取负号的情况：a加1除以1加x加a加1除以1减x等于0。",
+      "file": "seg_008.wav",
+      "start": 31.82,
+      "end": 37.74,
+      "duration": 5.92
+    },
+    {
+      "index": 8,
+      "text": "通分：a的1减x平方分之2加1减x平方分之2等于0。",
+      "file": "seg_009.wav",
+      "start": 38.24,
+      "end": 44.48,
+      "duration": 6.24
+    },
+    {
+      "index": 9,
+      "text": "2a加2等于0，a等于负1。",
+      "file": "seg_010.wav",
+      "start": 44.98,
+      "end": 48.02,
+      "duration": 3.04
+    },
+    {
+      "index": 10,
+      "text": "验证一下，a等于负1时，f(x)等于ln绝对值负1加1除以1减x。",
+      "file": "seg_011.wav",
+      "start": 48.52,
+      "end": 55.24,
+      "duration": 6.72
+    },
+    {
+      "index": 11,
+      "text": "等于ln绝对值x除以1减x。",
+      "file": "seg_012.wav",
+      "start": 55.74,
+      "end": 59.58,
+      "duration": 3.84
+    },
+    {
+      "index": 12,
+      "text": "f负x等于ln绝对值负x除以1加x等于ln绝对值x除以1加x。",
+      "file": "seg_013.wav",
+      "start": 60.08,
+      "end": 67.6,
+      "duration": 7.52
+    },
+    {
+      "index": 13,
+      "text": "嗯，这不对，让我再想想。",
+      "file": "seg_014.wav",
+      "start": 68.1,
+      "end": 70.5,
+      "duration": 2.4
+    },
+    {
+      "index": 14,
+      "text": "实际上a等于负1时，f(x)等于ln绝对值x除以1减x。",
+      "file": "seg_015.wav",
+      "start": 71.0,
+      "end": 77.4,
+      "duration": 6.4
+    },
+    {
+      "index": 15,
+      "text": "f负x等于ln绝对值负x除以1加x等于ln绝对值x除以1加x。",
+      "file": "seg_016.wav",
+      "start": 77.9,
+      "end": 85.58,
+      "duration": 7.68
+    },
+    {
+      "index": 16,
+      "text": "这两个不相等。",
+      "file": "seg_017.wav",
+      "start": 86.08,
+      "end": 87.2,
+      "duration": 1.12
+    },
+    {
+      "index": 17,
+      "text": "让我重新算。",
+      "file": "seg_018.wav",
+      "start": 87.7,
+      "end": 88.82,
+      "duration": 1.12
+    },
+    {
+      "index": 18,
+      "text": "取正号：1除以1加x减1除以1减x等于0。",
+      "file": "seg_019.wav",
+      "start": 89.32,
+      "end": 94.6,
+      "duration": 5.28
+    },
+    {
+      "index": 19,
+      "text": "通分：1减x减1减x除以1减x²等于0。",
+      "file": "seg_020.wav",
+      "start": 95.1,
+      "end": 99.58,
+      "duration": 4.48
+    },
+    {
+      "index": 20,
+      "text": "负2x除以1减x²等于0，只有x等于0时成立。",
+      "file": "seg_021.wav",
+      "start": 100.08,
+      "end": 104.72,
+      "duration": 4.64
+    },
+    {
+      "index": 21,
+      "text": "所以取负号是对的。",
+      "file": "seg_022.wav",
+      "start": 105.22,
+      "end": 106.66,
+      "duration": 1.44
+    },
+    {
+      "index": 22,
+      "text": "a等于负1，但需要验证定义域。",
+      "file": "seg_023.wav",
+      "start": 107.16,
+      "end": 110.2,
+      "duration": 3.04
+    },
+    {
+      "index": 23,
+      "text": "实际上答案是正负1。",
+      "file": "seg_024.wav",
+      "start": 110.7,
+      "end": 112.94,
+      "duration": 2.24
+    },
+    {
+      "index": 24,
+      "text": "答案选C。",
+      "file": "seg_025.wav",
+      "start": 113.44,
+      "end": 114.88,
+      "duration": 1.44
+    }
+  ]
+}
