@@ -1,0 +1,134 @@
+{
+  "total_duration": 49.44,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第二题，向量共线。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.4,
+      "duration": 2.4
+    },
+    {
+      "index": 1,
+      "text": "已知平面向量a和b不共线。",
+      "file": "seg_002.wav",
+      "start": 2.9,
+      "end": 5.46,
+      "duration": 2.56
+    },
+    {
+      "index": 2,
+      "text": "也就是说，a和b是两个独立的方向。",
+      "file": "seg_003.wav",
+      "start": 5.96,
+      "end": 9.48,
+      "duration": 3.52
+    },
+    {
+      "index": 3,
+      "text": "等式是2a加yb等于xa减3b。",
+      "file": "seg_004.wav",
+      "start": 9.98,
+      "end": 13.98,
+      "duration": 4.0
+    },
+    {
+      "index": 4,
+      "text": "这道题考的是什么？",
+      "file": "seg_005.wav",
+      "start": 14.48,
+      "end": 15.92,
+      "duration": 1.44
+    },
+    {
+      "index": 5,
+      "text": "两个向量相等，当且仅当它们的系数分别相等。",
+      "file": "seg_006.wav",
+      "start": 16.42,
+      "end": 20.26,
+      "duration": 3.84
+    },
+    {
+      "index": 6,
+      "text": "所以我们把a的系数和b的系数分开看。",
+      "file": "seg_007.wav",
+      "start": 20.76,
+      "end": 23.64,
+      "duration": 2.88
+    },
+    {
+      "index": 7,
+      "text": "左边a的系数是2，右边是x。",
+      "file": "seg_008.wav",
+      "start": 24.14,
+      "end": 27.02,
+      "duration": 2.88
+    },
+    {
+      "index": 8,
+      "text": "所以x等于2。",
+      "file": "seg_009.wav",
+      "start": 27.52,
+      "end": 28.8,
+      "duration": 1.28
+    },
+    {
+      "index": 9,
+      "text": "左边b的系数是y，右边是负3。",
+      "file": "seg_010.wav",
+      "start": 29.3,
+      "end": 32.02,
+      "duration": 2.72
+    },
+    {
+      "index": 10,
+      "text": "所以y等于负3。",
+      "file": "seg_011.wav",
+      "start": 32.52,
+      "end": 34.6,
+      "duration": 2.08
+    },
+    {
+      "index": 11,
+      "text": "答案选A。",
+      "file": "seg_012.wav",
+      "start": 35.1,
+      "end": 36.22,
+      "duration": 1.12
+    },
+    {
+      "index": 12,
+      "text": "这道题的核心思想是向量分解。",
+      "file": "seg_013.wav",
+      "start": 36.72,
+      "end": 39.28,
+      "duration": 2.56
+    },
+    {
+      "index": 13,
+      "text": "a和b不共线，所以它们线性无关。",
+      "file": "seg_014.wav",
+      "start": 39.78,
+      "end": 42.82,
+      "duration": 3.04
+    },
+    {
+      "index": 14,
+      "text": "系数必须一一对应。",
+      "file": "seg_015.wav",
+      "start": 43.32,
+      "end": 45.08,
+      "duration": 1.76
+    },
+    {
+      "index": 15,
+      "text": "记住这个套路，向量等式就拆系数。",
+      "file": "seg_016.wav",
+      "start": 45.58,
+      "end": 48.94,
+      "duration": 3.36
+    }
+  ]
+}
