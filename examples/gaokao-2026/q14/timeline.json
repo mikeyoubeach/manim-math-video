@@ -1,0 +1,110 @@
+{
+  "total_duration": 52.1,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第十四题，等比数列。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 2.56,
+      "duration": 2.56
+    },
+    {
+      "index": 1,
+      "text": "等比数列an满足a1加a3等于10，a2加a4等于20。",
+      "file": "seg_002.wav",
+      "start": 3.06,
+      "end": 9.14,
+      "duration": 6.08
+    },
+    {
+      "index": 2,
+      "text": "求a7。",
+      "file": "seg_003.wav",
+      "start": 9.64,
+      "end": 10.6,
+      "duration": 0.96
+    },
+    {
+      "index": 3,
+      "text": "等比数列的性质：a2等于a1乘以q，a4等于a3乘以q。",
+      "file": "seg_004.wav",
+      "start": 11.1,
+      "end": 16.7,
+      "duration": 5.6
+    },
+    {
+      "index": 4,
+      "text": "所以a2加a4等于a1加a3乘以q。",
+      "file": "seg_005.wav",
+      "start": 17.2,
+      "end": 21.36,
+      "duration": 4.16
+    },
+    {
+      "index": 5,
+      "text": "20等于10乘以q，q等于2。",
+      "file": "seg_006.wav",
+      "start": 21.86,
+      "end": 24.74,
+      "duration": 2.88
+    },
+    {
+      "index": 6,
+      "text": "再由a1加a3等于10。",
+      "file": "seg_007.wav",
+      "start": 25.24,
+      "end": 27.48,
+      "duration": 2.24
+    },
+    {
+      "index": 7,
+      "text": "a3等于a1乘以q的平方等于4a1。",
+      "file": "seg_008.wav",
+      "start": 27.98,
+      "end": 31.82,
+      "duration": 3.84
+    },
+    {
+      "index": 8,
+      "text": "所以a1加4a1等于10，5a1等于10，a1等于2。",
+      "file": "seg_009.wav",
+      "start": 32.32,
+      "end": 37.76,
+      "duration": 5.44
+    },
+    {
+      "index": 9,
+      "text": "a7等于a1乘以q的6次方。",
+      "file": "seg_010.wav",
+      "start": 38.26,
+      "end": 40.82,
+      "duration": 2.56
+    },
+    {
+      "index": 10,
+      "text": "2乘以2的6次方等于2乘以64等于128。",
+      "file": "seg_011.wav",
+      "start": 41.32,
+      "end": 45.64,
+      "duration": 4.32
+    },
+    {
+      "index": 11,
+      "text": "答案选D。",
+      "file": "seg_012.wav",
+      "start": 46.14,
+      "end": 47.26,
+      "duration": 1.12
+    },
+    {
+      "index": 12,
+      "text": "记住等比数列的性质，相邻项的比是公比q。",
+      "file": "seg_013.wav",
+      "start": 47.76,
+      "end": 51.6,
+      "duration": 3.84
+    }
+  ]
+}
