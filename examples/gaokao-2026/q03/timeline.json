@@ -1,0 +1,134 @@
+{
+  "total_duration": 62.56,
+  "voice": "冰糖",
+  "segments": [
+    {
+      "index": 0,
+      "text": "来看第三题，三角函数集合交集。",
+      "file": "seg_001.wav",
+      "start": 0.0,
+      "end": 3.04,
+      "duration": 3.04
+    },
+    {
+      "index": 1,
+      "text": "集合A有三个元素，分别是sin六分之七π，cos三分之五π，tan四分之五π。",
+      "file": "seg_002.wav",
+      "start": 3.54,
+      "end": 10.58,
+      "duration": 7.04
+    },
+    {
+      "index": 2,
+      "text": "集合B也有三个元素，负二分之根号三，负二分之一，和1。",
+      "file": "seg_003.wav",
+      "start": 11.08,
+      "end": 16.36,
+      "duration": 5.28
+    },
+    {
+      "index": 3,
+      "text": "求A和B的交集。",
+      "file": "seg_004.wav",
+      "start": 16.86,
+      "end": 18.3,
+      "duration": 1.44
+    },
+    {
+      "index": 4,
+      "text": "这道题考的是特殊角的三角函数值。",
+      "file": "seg_005.wav",
+      "start": 18.8,
+      "end": 21.84,
+      "duration": 3.04
+    },
+    {
+      "index": 5,
+      "text": "我们一个一个算。",
+      "file": "seg_006.wav",
+      "start": 22.34,
+      "end": 23.62,
+      "duration": 1.28
+    },
+    {
+      "index": 6,
+      "text": "sin六分之七π，就是sin一百五十度，等于二分之一。",
+      "file": "seg_007.wav",
+      "start": 24.12,
+      "end": 28.6,
+      "duration": 4.48
+    },
+    {
+      "index": 7,
+      "text": "cos三分之五π，就是cos三百度，等于二分之一。",
+      "file": "seg_008.wav",
+      "start": 29.1,
+      "end": 33.74,
+      "duration": 4.64
+    },
+    {
+      "index": 8,
+      "text": "tan四分之五π，就是tan二百二十五度，等于1。",
+      "file": "seg_009.wav",
+      "start": 34.24,
+      "end": 38.4,
+      "duration": 4.16
+    },
+    {
+      "index": 9,
+      "text": "所以A等于二分之一，二分之一，1。",
+      "file": "seg_010.wav",
+      "start": 38.9,
+      "end": 42.9,
+      "duration": 4.0
+    },
+    {
+      "index": 10,
+      "text": "注意，集合有互异性，重复的只算一次。",
+      "file": "seg_011.wav",
+      "start": 43.4,
+      "end": 47.4,
+      "duration": 4.0
+    },
+    {
+      "index": 11,
+      "text": "所以A等于二分之一和1。",
+      "file": "seg_012.wav",
+      "start": 47.9,
+      "end": 50.3,
+      "duration": 2.4
+    },
+    {
+      "index": 12,
+      "text": "再看B，负二分之根号三，负二分之一，1。",
+      "file": "seg_013.wav",
+      "start": 50.8,
+      "end": 54.8,
+      "duration": 4.0
+    },
+    {
+      "index": 13,
+      "text": "A和B的公共元素，只有1。",
+      "file": "seg_014.wav",
+      "start": 55.3,
+      "end": 57.7,
+      "duration": 2.4
+    },
+    {
+      "index": 14,
+      "text": "所以A交B等于1。",
+      "file": "seg_015.wav",
+      "start": 58.2,
+      "end": 60.28,
+      "duration": 2.08
+    },
+    {
+      "index": 15,
+      "text": "答案选C。",
+      "file": "seg_016.wav",
+      "start": 60.78,
+      "end": 62.06,
+      "duration": 1.28
+    }
+  ]
+}
